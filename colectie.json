@@ -1,0 +1,58 @@
+{
+    titlu:'jaws';
+    an:1234;
+    gen:'horror'
+}
+{
+    titlu:'jaws';
+    an:1234;
+    gen:'horror'
+}
+{
+	titlu:tacerea mieilor;
+	an:1999;
+	gen:thriller
+}{
+	titlu:'matrix';
+	an:1999;
+	gen:'sf'
+}{
+	titlu : 'legends of the fall';
+	an : 1995;
+	gen : 'drama'
+}
+{
+	titlu : 'titanic';
+	an : 1999;
+	gen : 'drama'
+}
+{
+	titlu : 'twelve angry men';
+	an : 1962;
+	gen : 'cool'
+}
+{
+	titlu : 'motanul incaltat';
+	an : 4513;
+	gen : 'funny'
+}
+{
+	titlu : 'tom si jerry ';
+	an : 4353;
+	gen : 'funny'
+}
+{
+	titlu : 'singur acasa';
+	an : 4561;
+	gen : 'haha'
+}
+{
+	titlu : 'fara atribuire';
+	an : 1324;
+	gen : 'sd'
+}
+{
+	titlu : 'you';
+	an : 2022;
+	gen : 'horror'
+}
